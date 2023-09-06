@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>A&D</title>
         <meta
           name="description"
-          content="Crește-ți călătoria de fitness la A&D – destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă!"
+          content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
         />
         <meta name="google-site-verification" content="rfmUZHof7-SwUw3HEMPxxrCLnf9SD8_c4TPcKpWzvG4" />
         <meta
