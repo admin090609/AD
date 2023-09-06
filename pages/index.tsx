@@ -17,7 +17,6 @@ export default function Home() {
         <Head>
           <title>A&D</title>
           <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
-          <meta name="description" content="" />
         </Head>
       </div>
       <div></div>
