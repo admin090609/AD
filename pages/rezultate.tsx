@@ -16,7 +16,6 @@ const Suplement = () => {
         <Head>
           <title>A&D</title>
           <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
-          <meta name="description" content="" />
         </Head>
       </div>
       <div className="absolute z-[-2] top-0">
