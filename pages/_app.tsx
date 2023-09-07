@@ -2,6 +2,7 @@ import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import NavBar from "./component/NavBar";
 import Head from "next/head";
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
@@ -12,7 +13,10 @@ export default function App({ Component, pageProps }: AppProps) {
           name="description"
           content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
         />
-        <meta name="google-site-verification" content="rfmUZHof7-SwUw3HEMPxxrCLnf9SD8_c4TPcKpWzvG4" />
+        <meta
+          name="google-site-verification"
+          content="rfmUZHof7-SwUw3HEMPxxrCLnf9SD8_c4TPcKpWzvG4"
+        />
         <meta
           name="keywords"
           content="Sală de gimnastică,
@@ -169,6 +173,7 @@ Angajamentul comunității de fitness"
       </Head>
       <NavBar />
       <Component {...pageProps} />
+      <Analytics />
     </>
   );
 }
