@@ -17,6 +17,8 @@ export default function Home() {
         <Head>
           <title>A&D</title>
           <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
+          <link rel="icon" href="logo.png" />
+
           <meta
             name="description"
             content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
