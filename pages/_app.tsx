@@ -21,6 +21,10 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta
           name="keywords"
           content="Sală de gimnastică,
+          a&d,
+          A&D,
+          ad sala,
+          AD sala,
 Sală de fitness,
 Club de sănătate,
 Antrenament personal,

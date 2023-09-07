@@ -14,18 +14,24 @@ export default function Home() {
   return (
     <>
       <div>
-        <Head>
-          <title>A&D</title>
-          <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
-          <link rel="icon" href="logo.png" />
-
-          <meta
-            name="description"
-            content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
-          />
-          <meta
-            name="keywords"
-            content="Sală de gimnastică, adfitness, ad, A&D, sala ialoveni, sport ialoveni, sala de forte,
+      <Head>
+        <title>A&D</title>
+        <link rel="icon" href="logo.png" />
+        <meta
+          name="description"
+          content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
+        />
+        <meta
+          name="google-site-verification"
+          content="rfmUZHof7-SwUw3HEMPxxrCLnf9SD8_c4TPcKpWzvG4"
+        />
+        <meta
+          name="keywords"
+          content="Sală de gimnastică,
+          a&d,
+          A&D,
+          ad sala,
+          AD sala,
 Sală de fitness,
 Club de sănătate,
 Antrenament personal,
@@ -175,8 +181,8 @@ Strategii de dezvoltare musculară,
 Fitness pentru programele aglomerate,
 Fitness pentru obiective specifice,
 Angajamentul comunității de fitness"
-          />
-        </Head>
+        />
+      </Head>
       </div>
       <div></div>
       <div className="justify-center flex items-center flex-col text-center w-screen h-[80vh]">
