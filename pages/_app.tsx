@@ -23,7 +23,7 @@ export default function App({ Component, pageProps }: AppProps) {
           content="Sală de gimnastică,
           a&d,
           A&D,
-          ad sala,
+          ad sala, 
           AD sala,
 Sală de fitness,
 Club de sănătate,
