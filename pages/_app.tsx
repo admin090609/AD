@@ -8,6 +8,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
+        <title>A&D</title>
         <link rel="icon" href="./image/favicon.ico" type="image/x-icon"/>
         <meta
           name="description"
