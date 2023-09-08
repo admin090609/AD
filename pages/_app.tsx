@@ -9,18 +9,15 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>A&D</title>
+        <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
         <link rel="icon" href="logo.png" />
         <meta
           name="description"
           content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
         />
         <meta
-          name="google-site-verification"
-          content="rfmUZHof7-SwUw3HEMPxxrCLnf9SD8_c4TPcKpWzvG4"
-        />
-        <meta
           name="keywords"
-          content="Sală de gimnastică,
+          content="Sală de gimnastică, adfitness, ad, A&D, sala ialoveni, sport ialoveni, sala de forte,
 Sală de fitness,
 Club de sănătate,
 Antrenament personal,

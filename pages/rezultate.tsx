@@ -12,12 +12,6 @@ import arrow2 from "./image/arrow2.png";
 const Suplement = () => {
   return (
     <>
-      <div>
-        <Head>
-          <title>A&D</title>
-          <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
-        </Head>
-      </div>
       <div className="absolute z-[-2] top-0">
         <svg
           xmlns="http://www.w3.org/2000/svg"

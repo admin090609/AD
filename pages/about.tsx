@@ -7,11 +7,6 @@ import ph from "./image/about_ph.png";
 const About = () => {
   return (
     <div>
-      <Head>
-        <title>A&D</title>
-        <link rel="shortcut icon" href="logo.png" type="image/x-icon" />
-        <link rel="icon" href="logo.png" />
-      </Head>
       <div className="flex flex-col sm:flex-row justify-center mb-10 mt-10 items-center">
         <div className="md:max-w-[450px] lg:max-w-[600px] font-public p-6 sm:p-0">
           <div className="sm:mt-10 mt-0">
