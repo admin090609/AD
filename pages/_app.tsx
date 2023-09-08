@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>A&D</title>
-        <link rel="icon" href="public\favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="C:\Users\User\Desktop\AD\public\favicon.ico" type="image/x-icon" />
           <link rel="shortcut icon" href="favicon.ico" />
           <link rel="mask-icon" href="favicon.ico" />
           <link rel="apple-touch-icon" href="favicon.ico" />
