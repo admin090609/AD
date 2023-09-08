@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
         />
         <meta
           name="keywords"
-          content="Sală de gimnastică, adfitness, ad, A&D, sala ialoveni, sport ialoveni, sala de forte,
+          content="Sală de gimnastică,
 Sală de fitness,
 Club de sănătate,
 Antrenament personal,
