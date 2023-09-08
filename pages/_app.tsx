@@ -10,6 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <Head>
         <title>A&D</title>
         <link rel="icon" href="logo.png" type="image/x-icon"/>
+        <link rel="icon" href="favicon.ico" type="image/x-icon"/>
         <meta
           name="description"
           content="Crește-ți călătoria de fitness la A&D - destinația ta pentru putere, cardio și wellness. Explorați facilitățile noastre de ultimă generație, formatorii experți și clasele diverse. Alăturați-vă nouă astăzi și începeți să vă sculptați o persoană mai sănătoasă."
