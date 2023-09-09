@@ -15,10 +15,10 @@ export default function Home() {
     <>
       <Head>
         <title>A&D Fitness</title>
-        <link rel="icon" href="/public/favicon.ico" />
-        <link rel="shortcut icon" href="/public/logo.png" />
-        <link rel="mask-icon" href="/public/favicon.ico" />
-        <link rel="apple-touch-icon" href="/public/logo.png" />
+        <link rel="icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="logo.png" />
+        <link rel="mask-icon" href="favicon.ico" />
+        <link rel="apple-touch-icon" href="logo.png" />
         <meta
           name="description"
           content="Descoperă A&D Fitness, locul unde sănătatea și forma fizică se împletesc într-o experiență antrenantă. Începe-ți călătoria către o viață mai sănătoasă și mai activă cu antrenamente personalizate și o comunitate dedicată."

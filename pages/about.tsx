@@ -9,10 +9,10 @@ const About = () => {
     <div>
       <Head>
         <title>Despre Noi - A&D</title>
-        <link rel="icon" href="/public/favicon.ico" />
-        <link rel="shortcut icon" href="/public/logo.png" />
-        <link rel="mask-icon" href="/public/favicon.ico" />
-        <link rel="apple-touch-icon" href="/public/logo.png" />
+        <link rel="icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="logo.png" />
+        <link rel="mask-icon" href="favicon.ico" />
+        <link rel="apple-touch-icon" href="logo.png" />
         <meta
           name="description"
           content="A&D Fitness - Descoperă cine suntem, misiunea noastră și angajamentul pentru sănătate și formă fizică. Cunoaște echipa noastră pasionată și obiectivele noastre în sprijinul unei vieți active și sănătoase."
