@@ -7,6 +7,17 @@ import ph from "./image/about_ph.png";
 const About = () => {
   return (
     <div>
+      <Head>
+        <title>Despre Noi - A&D</title>
+        <link rel="icon" href="/public/favicon.ico" />
+        <link rel="shortcut icon" href="/public/logo.png" />
+        <link rel="mask-icon" href="/public/favicon.ico" />
+        <link rel="apple-touch-icon" href="/public/logo.png" />
+        <meta
+          name="description"
+          content="A&D Fitness - Descoperă cine suntem, misiunea noastră și angajamentul pentru sănătate și formă fizică. Cunoaște echipa noastră pasionată și obiectivele noastre în sprijinul unei vieți active și sănătoase."
+        />
+      </Head>
       <div className="flex flex-col sm:flex-row justify-center mb-10 mt-10 items-center">
         <div className="md:max-w-[450px] lg:max-w-[600px] font-public p-6 sm:p-0">
           <div className="sm:mt-10 mt-0">
