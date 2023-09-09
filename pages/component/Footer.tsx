@@ -61,7 +61,7 @@ const Footer = () => {
           <Link href="/about">Despre Noi</Link>
         </div>
         <div className="hover:text-gray-500">
-          <Link href="/suplement">Suplimente</Link>
+          <Link href="/rezultate">Rezultate</Link>
         </div>
       </div>
 
