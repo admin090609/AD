@@ -12,6 +12,17 @@ import arrow2 from "./image/arrow2.png";
 const Suplement = () => {
   return (
     <>
+      <Head>
+        <title>Rezultate - A&D</title>
+        <link rel="icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="logo.png" />
+        <link rel="mask-icon" href="favicon.ico" />
+        <link rel="apple-touch-icon" href="logo.png" />
+        <meta
+          name="description"
+          content="Descoperă rezultatele uimitoare obținute la A&D Fitness. Vezi transformările impresionante ale clienților noștri și inspiră-te să îți atingi propriile obiective de sănătate și formă fizică. Împreună, putem construi succesul tău!"
+        />
+      </Head>
       <div className="absolute z-[-2] top-0">
         <svg
           xmlns="http://www.w3.org/2000/svg"
