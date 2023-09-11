@@ -211,6 +211,7 @@ Angajamentul comunității de fitness"
           height="100vh"
           className="w-full h-full object-cover z-[-5]"
           autoPlay
+          playsInline
           loop
           muted
         >
